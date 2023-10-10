@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.miApp{
+  min-height: 100vh;
+  position: relative;
+  margin-top: 20px;
+}
+
+
+
+
