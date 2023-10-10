@@ -1,4 +1,6 @@
-# React + Vite
+# App Camara con React + Vite
+
+<img src='plantilla2.png' />
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
